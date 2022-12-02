@@ -1,0 +1,38 @@
+CTX-M-15 
+DNA methylase 
+DUF1281 domain-containing protein 
+DUF1380 domain-containing protein 
+DUF1380 family protein 
+DUF4158 domain-containing protein 
+DUF905 domain-containing protein 
+DinI-like family protein 
+IncI1 conjugal transfer protein PilK 
+KlcA 
+ParA family plasmid-partitioning AAA ATPase 
+ParB-like protein 
+PilI type IV pilus biogenesis protein 
+PilK 
+ProQ/FINO family protein 
+PsiB 
+TEM family class A beta-lactamase 
+TPA: TEM family class A beta-lactamase 
+Tn3 family transposase 
+Tn3-like element Tn3 family transposase 
+TnpA 
+WbuC family cupin fold metalloprotein 
+Y-family DNA polymerase 
+YagA 
+antirestriction protein 
+conjugal transfer protein TraA 
+conjugal transfer protein TraC 
+extended-spectrum class A beta-lactamase CTX-M-15 
+helix-turn-helix domain containing protein 
+pilus assembly protein PilP 
+protein ImpA 
+protein impA 
+putative dNA methylase 
+recombinase family protein 
+single-stranded DNA-binding protein 
+transcription termination factor NusG 
+type IV pilus biogenesis lipoprotein PilL 
+type IV pilus biogenesis protein PilM 

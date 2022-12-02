@@ -1,0 +1,22 @@
+Assembly	contigs	scaffolds	scaffolds_broken
+# contigs (>= 0 bp)	529	445	187
+# contigs (>= 1000 bp)	128	59	132
+# contigs (>= 5000 bp)	70	15	72
+# contigs (>= 10000 bp)	56	12	56
+# contigs (>= 25000 bp)	43	9	43
+# contigs (>= 50000 bp)	30	8	30
+Total length (>= 0 bp)	5458146	5537153	5399152
+Total length (>= 1000 bp)	5351978	5431339	5367460
+Total length (>= 5000 bp)	5215444	5336148	5225896
+Total length (>= 10000 bp)	5123719	5315347	5123719
+Total length (>= 25000 bp)	4880427	5259769	4880427
+Total length (>= 50000 bp)	4399019	5234285	4399019
+# contigs	169	110	187
+Largest contig	391920	2558431	391920
+Total length	5379911	5466002	5399152
+GC (%)	50.56	50.56	50.57
+N50	151014	1046849	151014
+N75	70877	518954	70877
+L50	11	2	11
+L75	25	3	25
+# N's per 100 kbp	0.00	1149.12	0.00

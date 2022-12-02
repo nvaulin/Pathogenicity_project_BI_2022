@@ -1,0 +1,82 @@
+/home/nvaulin/mambaforge-pypy3/envs/quast_env/bin/quast -o quast_reports/PE_MP/ spades_assembly_PE_MP/contigs.fasta -s spades_assembly_PE_MP/scaffolds.fasta -t 12
+
+Version: 5.0.0
+
+System information:
+  OS: Linux-5.15.0-53-generic-x86_64-with-debian-bullseye-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 16
+
+Started: 2022-11-28 17:36:43
+
+Logging to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/quast.log
+
+CWD: /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022
+Main parameters: 
+  MODE: default, threads: 12, split scaffolds: true, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  spades_assembly_PE_MP/contigs.fasta ==> contigs
+  1    breaking scaffolds into contigs:
+  1      WARNING: nothing was broken, skipping 'contigs broken' from further analysis
+  2  spades_assembly_PE_MP/scaffolds.fasta ==> scaffolds
+  2    breaking scaffolds into contigs:
+  2      110 scaffolds (scaffolds) were broken into 187 contigs (scaffolds_broken)
+
+2022-11-28 17:36:44
+Running Basic statistics processor...
+  Contig files: 
+    1  contigs
+    2  scaffolds
+    3  scaffolds_broken
+  Calculating N50 and L50...
+    1  contigs, N50 = 151014, L50 = 11, Total length = 5379911, GC % = 50.56, # N's per 100 kbp =  0.00
+    2  scaffolds, N50 = 1046849, L50 = 2, Total length = 5466002, GC % = 50.56, # N's per 100 kbp =  1149.12
+    3  scaffolds_broken, N50 = 151014, L50 = 11, Total length = 5399152, GC % = 50.57, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/GC_content_plot.pdf
+  Drawing contigs GC content plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/contigs_GC_content_plot.pdf
+  Drawing scaffolds GC content plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/scaffolds_GC_content_plot.pdf
+  Drawing scaffolds_broken GC content plot...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/scaffolds_broken_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 1x)...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/coverage_histogram.pdf
+  Drawing contigs coverage histogram (bin size: 1x)...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/contigs_coverage_histogram.pdf
+  Drawing scaffolds coverage histogram (bin size: 1x)...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/scaffolds_coverage_histogram.pdf
+  Drawing scaffolds_broken coverage histogram (bin size: 1x)...
+    saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/basic_stats/scaffolds_broken_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2022-11-28 17:36:46
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2022-11-28 17:36:47
+RESULTS:
+  Text versions of total report are saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/report.html
+  PDF version (tables and plots) is saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/report.pdf
+  Icarus (contig browser) is saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/icarus.html
+  Log is saved to /media/nvaulin/Winux/BI/Projects/Prj3_pathogenicity/Pathogenicity_project_BI_2022/quast_reports/PE_MP/quast.log
+
+Finished: 2022-11-28 17:36:47
+Elapsed time: 0:00:04.206761
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

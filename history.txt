@@ -1,0 +1,1000 @@
+ 1020  conda create -n ultra_env -I 
+ 1021  conda create -n ultra_env python -I 
+ 1022  pip 
+ 1023  nano ~/.bashrc
+ 1024  fg
+ 1025  pip 
+ 1026  pip3
+ 1027  which python
+ 1028  which python3
+ 1029  pip --version
+ 1030  cd ~/.local/bin/p
+ 1031  cd ~/.local/bin/pip
+ 1032  cd ~/.local/bin/
+ 1033  nano pip
+ 1034  [A
+ 1035  nano pip
+ 1036  pip
+ 1037  pip3
+ 1038  nano pip3
+ 1039  ls
+ 1040  nano pip3.8
+ 1041  nano pip3
+ 1042  fg
+ 1043  nano pip3
+ 1044  nano pip3.8
+ 1045  nano pip3.9
+ 1046  ls
+ 1047  nano pip3.10
+ 1048  nano pip
+ 1049  nano pip3.10
+ 1050  nano pip3.11
+ 1051  pip
+ 1052  exit
+ 1053  history
+ 1054  history > history_python
+ 1055  history > history_python.txt
+ 1056  rm history_python
+ 1057  cd miniconda3/envs/
+ 1058  conda list
+ 1059  conda env list
+ 1060  conda
+ 1061  conda create ultra_env
+ 1062  conda create -n ultra_env --no-default-packages 
+ 1063  ca ultra_env
+ 1064  ls
+ 1065  cd ultra_env
+ 1066  ls
+ 1067  conda list
+ 1068  python3.11
+ 1069  la
+ 1070  ls
+ 1071  l
+ 1072  mv ultraviolet.py ultraviolence.py 
+ 1073  pip 
+ 1074  sudo apt install python3.11
+ 1075  python --version 
+ 1076  python3.11 --version 
+ 1077  ls
+ 1078  python3.11 lultraviolet.py 
+ 1079  pip
+ 1080  pip3
+ 1081  pip3.11
+ 1082  pip list
+ 1083  pip3.11 list
+ 1084  pip3 list
+ 1085  pip list
+ 1086  python3.11 lultraviolet.py 
+ 1087  conda instal aiohttp
+ 1088  conda install aiohttp
+ 1089  ls
+ 1090  conda list
+ 1091  python3.11 lultraviolet.py 
+ 1092  conda install testresources
+ 1093  conda install -c conda-forge testresources
+ 1094  conda install -c gus testresources
+ 1095  python3.11 lultraviolet.py 
+ 1096  conda install aiohttp
+ 1097  conda install aiohttp --upgrade
+ 1098  conda uninstall aiohttp
+ 1099  conda install aiohttp
+ 1100  python3.11 lultraviolet.py 
+ 1101  conda
+ 1102  conda info
+ 1103  conda 
+ 1104  conda search aiohttp
+ 1105  python3.11 lultraviolet.py 
+ 1106  conda install biopython
+ 1107  python3.11 lultraviolet.py 
+ 1108  python3.11 ultraviolence.py 
+ 1109  conda uninstall biopython
+ 1110  conda install biopython=1.77
+ 1111  python3.11 ultraviolence.py 
+ 1112  jistort
+ 1113  history
+ 1114  pip list
+ 1115  python3.11
+ 1116  whereis python3.11
+ 1117  cd miniconda3/envs/ultra_env/
+ 1118  ls
+ 1119  python3.11 ultraviolence.py 
+ 1120  pip3.11 show aiohttp
+ 1121  pip3.11 show distutils.util
+ 1122  pip3 intall distutils.util
+ 1123  pip3 install distutils.util
+ 1124  pip3 install distutils
+ 1125  sudo apt-get install python3-distutils --reinstall
+ 1126  sudo apt-get install python3.11-distutils --reinstall
+ 1127  python3.11 ultraviolence.py 
+ 1128  python3.11 -m pip install aiohttp
+ 1129  python3.11 -m pip install htm5lib
+ 1130  curl -sS https://bootstrap.pypa.io/get-pip.py | python3.11
+ 1131  python3.11 -m pip install htm5lib
+ 1132  python3.11 -m pip install aiohttp
+ 1133  python3.11 ultraviolence.py 
+ 1134  python3.11 -m pip install pandas
+ 1135  python3.11 -m pip list
+ 1136  python3.11 ultraviolence.py 
+ 1137  python3.11 -m pip install opencv-python
+ 1138  python3.11 -m pip list
+ 1139  python3.11 ultraviolence.py 
+ 1140  python3.11 -m pip list
+ 1141  python3.11 ultraviolence.py 
+ 1142  python3.11 -m pip show yarl
+ 1143  multidict
+ 1144  python3.11 -m pip show multidict
+ 1145  sudo apt install python3.11-dev
+ 1146  python3.11 ultraviolence.py 
+ 1147  sudo apt-get build-dep python-lxml
+ 1148  python3.11 -m pip install bs4
+ 1149  ython3.11 -m pip install html5lib
+ 1150  python3.11 -m pip install html5lib
+ 1151  python3.11 -m pip install lxml
+ 1152  python3.11 -m pip install --upgrade lxml
+ 1153  python3.11 ultraviolence.py 
+ 1154  python3.11 -m pip show biopython
+ 1155  python3.11 -m pip install biopython==1.77
+ 1156  python3.11 ultraviolence.py 
+ 1157  python3.11 -m pip list
+ 1158  python3.11 -m pip freeze > requerments.txt
+ 1159  ls
+ 1160  less requerments.txt 
+ 1161  cd /home/nvaulin/.local/lib/python3.11/site-packages/pandas/core/frame.py
+ 1162  cd /home/nvaulin/.local/lib/python3.11/site-packages/pandas/core/
+ 1163  nano 636 frame.py 
+ 1164  nano -636 frame.py 
+ 1165  nano 636 frame.py 
+ 1166  nano +636 frame.py 
+ 1167  ап
+ 1168  fg
+ 1169  pip3.11 show pandas
+ 1170  python3.11 -m pip3 uninstall pandas
+ 1171  python3.11 -m pip uninstall pandas
+ 1172  python3.11 -m pip install pandas=1.4.3
+ 1173  python3.11 -m pip install pandas==1.4.3
+ 1174  python3.11 -m pip install --upgrade pip
+ 1175  pip install --upgrade pip
+ 1176  python3.11 -m pip install pandas==1.4.3
+ 1177  udo apt-get install build-essential libssl-dev libffi-dev python-dev
+ 1178  sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+ 1179  python3.11 -m pip install pandas==1.4.3
+ 1180  python3.11 -m pip install pandas==1.5.1
+ 1181  python3.11 -m pip show pandas
+ 1182  cd /home/nvaulin/.local/lib/python3.11/site-packages
+ 1183  ls
+ 1184  cd pandas
+ 1185  ls
+ 1186  find frame*
+ 1187  find -r frame*
+ 1188  find --help
+ 1189  find -depth 'frame.py'
+ 1190  find . -depth 'frame.py'
+ 1191  find . -depth 'frame*'
+ 1192  find .. -depth 'frame*'
+ 1193  find ./ -depth 'frame*'
+ 1194  find ./ e*
+ 1195  find ./ frame
+ 1196  find ./ frame*
+ 1197  find ./ 'frame*'
+ 1198  find 'frame'
+ 1199  find 'frame' -depth
+ 1200  find 'frame*' 
+ 1201  find 'frame*' -depth
+ 1202  find ./ -name 'frame*' -depth
+ 1203  cd core/
+ 1204  ls
+ 1205  nano +636 frame.py 
+ 1206  Y
+ 1207  nano +636 frame.py 
+ 1208  nano .bashrc
+ 1209  l;
+ 1210  l; -h
+ 1211  l; -lh
+ 1212  ll -lh
+ 1213  l;
+ 1214  nano .bashrc
+ 1215  igv
+ 1216  history
+ 1217  nano ~/.bashrc
+ 1218  l
+ 1219  wget -c https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/
+ 1220  l
+ 1221  nano ~/.bashrc
+ 1222  ls -lh
+ 1223  l
+ 1224  ll
+ 1225  la
+ 1226  nano ~/.bashrc
+ 1227  nano +40 ~/.bashrc
+ 1228  ll
+ 1229  l -h
+ 1230  l
+ 1231  ls
+ 1232  la
+ 1233  lh
+ 1234  ls
+ 1235  ll
+ 1236  lclear
+ 1237  clear
+ 1238  l
+ 1239  ll
+ 1240  wget --help
+ 1241  rm index.html 
+ 1242  wget -r -c https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/
+ 1243  ll
+ 1244  cd ftp.ncbi.nlm.nih.gov/
+ 1245  ll
+ 1246  cd genomes/
+ 1247  l
+ 1248  lll
+ 1249  ll
+ 1250  cd ../../
+ 1251  tree
+ 1252  cd..
+ 1253  ll
+ 1254  cd Prj1_Antibiotics/
+ 1255  ll
+ 1256  rm -rf ftp.ncbi.nlm.nih.gov/
+ 1257  wget -c https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.fna.gz
+ 1258  wget -c https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gff.gz
+ 1259  ll
+ 1260  ;;
+ 1261  ll
+ 1262  cat amp_res_1.fastq.gz | wc -l
+ 1263  ls -lh
+ 1264  wc -l amp_res_1.fastq.gz 
+ 1265  wc -l amp_res_1.fastq.gz amp_res_2.fastq.gz 
+ 1266  wc -l amp_res_1.fastq.gz amp_res_2.fastq.gz | awk -v FS='\t' 'print($1+1)}'
+ 1267  wc -l amp_res_1.fastq.gz amp_res_2.fastq.gz | awk -v FS="\t" 'print($1+1)'
+ 1268  wc -l amp_res_1.fastq.gz amp_res_2.fastq.gz | awk -v FS="\t" '{print($1+1)}'
+ 1269  wc -l amp_res_1.fastq.gz amp_res_2.fastq.gz | awk -v FS="\t" '{print($1/4)}'
+ 1270  head amp_res_1.fastq.gz 
+ 1271  gzip amp_res_1.fastq.gz | head
+ 1272  bgzip amp_res_1.fastq.gz | head
+ 1273  gzip -d  amp_res_1.fastq.gz | head
+ 1274  ls
+ 1275  gzip -d  amp_res_1.fastq.gz.gz | head
+ 1276  ll
+ 1277  gzip -d  amp_res_1.fastq.gz
+ 1278  ls -lh
+ 1279  gzip -d  amp_res_2.fastq.gz
+ 1280  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" '{print($1/4)}'
+ 1281  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" -v OFS="\t" '{print($1 $1/4 $2)}'
+ 1282  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" -v OFS="\t" '{print($1/4 $2)}'
+ 1283  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" -v OFS="\t" '{print($2)}'
+ 1284  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" -v OFS="\t" '{print($1)}'
+ 1285  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS="\t" '{print($1)}'
+ 1286  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " '{print($1)}'
+ 1287  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " '{print($1 $1/4 $2)}'
+ 1288  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS='\t'  '{print($1 $1/4 $2)}'
+ 1289  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS="\t"  '{print($1 $1/4 $2)}'
+ 1290  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS=" "  '{print($1 $1/4 $2)}'
+ 1291  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS="|"  '{print($1 $1/4 $2)}'
+ 1292  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS="|"  '{print($1,$1/4,$2)}'
+ 1293  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS=" "  '{print($1,$1/4,$2)}'
+ 1294  wc -l amp_res_1.fastq amp_res_2.fastq | awk -v FS=" " -v OFS="\t"  '{print($1,$1/4,$2)}'
+ 1295  fastqc
+ 1296  conda
+ 1297  mamba
+ 1298  fastqc -h
+ 1299  fastqc -o . amp_res_1.fastq  amp_res_2.fastq 
+ 1300  cd ~
+ 1301  ls
+ 1302  cd Do
+ 1303  cd Documents/
+ 1304  ssh-keygen -t ed25519 -C "your_email@example.com"
+ 1305  ssh-keygen -t ed25519 -C "vaulin@ro.ru"
+ 1306  eval "$(ssh-agent -s)"
+ 1307  ssh-add ~/.ssh/id_ed25519
+ 1308  cat ~/.ssh/id_ed25519.pub
+ 1309  exir
+ 1310  exit
+ 1311  git status
+ 1312  git pull
+ 1313  git status
+ 1314  git add alignment_antibio_log.txt 
+ 1315  git commit
+ 1316  git push
+ 1317  g
+ 1318  git status
+ 1319  mv alignment_statistics.txt alignment_statistics_antibio.txt 
+ 1320  ll
+ 1321  mv alignment_statistics_antibio.txt alignment_antibio_statistics.txt
+ 1322  git add alignment_antibio_statistics.txt 
+ 1323  git commit
+ 1324  git push
+ 1325  exit
+ 1326  ls
+ 1327  mv --help
+ 1328  cp --help
+ 1329  sudo cp -r VarScan/ /opt/VarScan/
+ 1330  ll
+ 1331  rm -rf VarScan/
+ 1332  ll
+ 1333  exit
+ 1334  nano ~/.bashrc
+ 1335  exit
+ 1336  VarScav
+ 1337  VarScan
+ 1338  java -jar VarScan.v2.4.2.jar
+ 1339  java -jar VarScan.v2.4.4.jar
+ 1340  nano +50 ~/.bashrc
+ 1341  export PATH="/opt/VarScan:$PATH"
+ 1342  java -jar VarScan.v2.4.4.jar
+ 1343  java -jar VarScan.v2.4.4.source.jar
+ 1344  java -jar VarScan.v2.4.4.jar
+ 1345  nano ~/.bashrc
+ 1346  git
+ 1347  ll
+ 1348  git clone git@github.com:nvaulin/Antibiotics_project_BI_2022.git
+ 1349  ls
+ 1350  cd Antibiotics_project_BI_2022/
+ 1351  git ctatus
+ 1352  cd ../
+ 1353  cd Antibiotics_project_BI_2022/
+ 1354  git status
+ 1355  mkdir Info
+ 1356  mkdir fastqc_output
+ 1357  cd ../
+ 1358  git status
+ 1359  cd Antibiotics_project_BI_2022/
+ 1360  git status
+ 1361  git add Info/
+ 1362  git add fastqc_output/
+ 1363  git status
+ 1364  git commit
+ 1365  git config --global user.email 'vaulin@ro.ru'
+ 1366  git config --global user.name 'Nikita Vaulin'
+ 1367  git commit
+ 1368  git status
+ 1369  git push
+ 1370  ls
+ 1371  cd fastqc_output/
+ 1372  ls
+ 1373  less amp_res_
+ 1374  less amp_res_1_fastqc.html 
+ 1375  cat amp_res_1_fastqc.html | grep "Total sequences"
+ 1376  cat amp_res_1_fastqc.html | grep "Total Sequences"
+ 1377  cat amp_res_1_fastqc.html | grep -E "Total Sequences.*?[0-9]\D"
+ 1378  cat amp_res_1_fastqc.html | grep -E "Total Sequences.*?\d*?\D"
+ 1379  cat amp_res_1_fastqc.html | grep -e "Total Sequences.*?[0-9]\D"
+ 1380  cat amp_res_1_fastqc.html | grep -e "Total Sequences.*?\d*?\D"
+ 1381  cat amp_res_1_fastqc.html | grep -0 "Total Sequences.*?\d*?\D"
+ 1382  cat amp_res_1_fastqc.html | grep -o "Total Sequences.*?\d*?\D"
+ 1383  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*?\d*?\D"
+ 1384  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences."
+ 1385  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*?"
+ 1386  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*?4"
+ 1387  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*4"
+ 1388  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*?4"
+ 1389  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences........"
+ 1390  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.{6}"
+ 1391  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.{10}"
+ 1392  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[./]{10}"
+ 1393  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[.]{10}"
+ 1394  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[./td]{10}"
+ 1395  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[td]{10}"
+ 1396  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[<]{10}"
+ 1397  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[<]{1}"
+ 1398  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[<t]{1}"
+ 1399  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</]{1}"
+ 1400  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</]{2}"
+ 1401  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</t]{2}"
+ 1402  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</t]{3}"
+ 1403  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</t]{5}"
+ 1404  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</t>]{5}"
+ 1405  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[</t>]{6}"
+ 1406  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[<//t>]{6}"
+ 1407  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></t]{6}"
+ 1408  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[.]{6}"
+ 1409  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.{6}"
+ 1410  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.{9}"
+ 1411  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{6}"
+ 1412  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{9}"
+ 1413  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{9}\d"
+ 1414  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{10}\d"
+ 1415  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{10}."
+ 1416  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{9}."
+ 1417  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences[></td]{9}[0-9]"
+ 1418  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.{9}[0-9]"
+ 1419  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*?[0-9]"
+ 1420  cat amp_res_1_fastqc.html | grep -o -E "Total Sequences.*[0-9]"
+ 1421  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?[0-9]"
+ 1422  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?\d"
+ 1423  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?\d*?"
+ 1424  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?\d*?\D"
+ 1425  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?\d*\D"
+ 1426  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?(\d)*\D"
+ 1427  cat amp_res_1_fastqc.html | grep -o -P "Total Sequences.*?(\d)\D"
+ 1428  cat amp_res_1_fastqc.html | grep -o -PEi "Total Sequences.*?(\d)\D"
+ 1429  cat amp_res_1_fastqc.html | grep -o -PE "Total Sequences.*?(\d)\D"
+ 1430  cat amp_res_1_fastqc.html | grep -o -Pi "Total Sequences.*?(\d)\D"
+ 1431  cat amp_res_1_fastqc.html | grep -o -Pi "Total Sequences.*?(\d)\D" | cut -d _ f2
+ 1432  cat amp_res_1_fastqc.html | grep -o -Pi "Total Sequences.*?(\d)\D" | cut -d _ -f2
+ 1433  cat amp_res_1_fastqc.html | grep -o -Pi "Total Sequences.*?(\d)\D" 
+ 1434  cat amp_res_1_fastqc.html | grep -o -Ei "Total Sequences.*?(\d)\D" 
+ 1435  cat amp_res_1_fastqc.html | grep -o -Ei "Total Sequences.*?([0-9])\D" 
+ 1436  cat amp_res_1_fastqc.html | grep -o -Pi "Total Sequences.*?(\d)\D" 
+ 1437  cat amp_res_1_fastqc.html | grep -oPi "Total Sequences.*?(\d)\D" 
+ 1438  cat amp_res_1_fastqc.html | egrep -oPi "Total Sequences.*?(\d)\D" 
+ 1439  cat amp_res_1_fastqc.html | egrep -oi "Total Sequences.*?(\d)\D" 
+ 1440  cat amp_res_1_fastqc.html | egrep -oPi "Total Sequences.*?(\d)\D" 
+ 1441  cat amp_res_1_fastqc.html | grep -oPi "Total Sequences.*?(\d)\D" 
+ 1442  cat amp_res_1_fastqc.html | grep -Pi -o1  "Total Sequences.*?(\d)\D" 
+ 1443  cat amp_res_1_fastqc.html | grep -Pi -o1 "Total Sequences.*?(\d)\D" 
+ 1444  cat amp_res_1_fastqc.html | grep -P "Total Sequences.*?(\d)\D" 
+ 1445  cat amp_res_1_fastqc.html | grep -Poi "Total Sequences.*?(\d)\D" 
+ 1446  cat amp_res_1_fastqc.html | grep -Poi "Total Sequences.*?(\d)\D" | grep -o1 "[0-9]*"
+ 1447  cat amp_res_2_fastqc.html | grep -Poi "Total Sequences.*?(\d)\D" | grep -o1 "[0-9]*"
+ 1448  TrimmomaticPE
+ 1449  dpkg -L TrimmomaticPE
+ 1450  dpkg -L Trimmomatic
+ 1451  cd ../../
+ 1452  ;s
+ 1453  ;;
+ 1454  ll
+ 1455  wget -c https://figshare.com/ndownloader/files/23769692
+ 1456  wget -c https://figshare.com/ndownloader/files/23769689
+ 1457  tar
+ 1458  tar --help
+ 1459  zip
+ 1460  ls
+ 1461  wget -c https://figshare.com/ndownloader/files/23769689
+ 1462  cd ../
+ 1463  wget -c https://figshare.com/ndownloader/files/23769689
+ 1464  ll
+ 1465  wget -o
+ 1466  wget --help
+ 1467  wget -c https://figshare.com/ndownloader/files/23769689
+ 1468  cd Prj1_Antibiotics/
+ 1469  wget -c https://figshare.com/ndownloader/files/23769689 -O amp_res_1.fastq.gz
+ 1470  wget -c https://figshare.com/ndownloader/files/23769692 -O amp_res_2.fastq.gz
+ 1471  zip -r amp_res_1.fastq.gz | head
+ 1472  zip amp_res_1.fastq.gz | head
+ 1473  zcat amp_res_1.fastq.gz | head
+ 1474  zcat amp_res_1.fastq.gz amp_res_2.fastq.gz  | wc -l
+ 1475  zcat 
+ 1476  zcat --help
+ 1477  ll
+ 1478  l
+ 1479  java -jar /home/nvaulin/Documents/Trimmomatic-0.39/trimmomatic-0.39.jar PE -phred33 amp_res_1.fastq.gz amp_res_2.fastq.gz Trimmed/amp_res_R1.fq.gz Trimmed/amp_res_R1_unpaired.fq.gz Trimmed/amp_res_R2.fq.gz Trimmed/amp_res_R2_unpaired.fq.gz ILLUMINACLIP:/home/nvaulin/Documents/Trimmomatic-0.39/adapters/TruSeq3-PE.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:10:20 MINLEN:20
+ 1480  tree
+ 1481  fastqc -o ./Antibiotics_project_BI_2022/fastqc_output/ Trimmed/amp_res_R1.fq.gz  Trimmed/amp_res_R2.fq.gz 
+ 1482  tree
+ 1483  cd Antibiotics_project_BI_2022/
+ 1484  git status
+ 1485  git add fastqc_output/
+ 1486  git commit
+ 1487  git push
+ 1488  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS=" " -v OFS="\t"  '{print($1,$1/4}'
+ 1489  tree
+ 1490  cd../
+ 1491  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS=" " -v OFS="\t"  '{print($1,$1/4}'
+ 1492  tree
+ 1493  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS=" " -v OFS="\t"  '{print($1, $1/4}'
+ 1494  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS=" " -v OFS="\t"  '{print($1}'
+ 1495  zcat Trimmed/amp_res_R1.fq.gz |  wc -l 
+ 1496  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk '{print($1}'
+ 1497  zcat Trimmed/amp_res_R1.fq.gz |  wc -l/4
+ 1498  zcat Trimmed/amp_res_R1.fq.gz |  wc -l awk -v FS"" '{print($0)}'
+ 1499  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS"" '{print($0)}'
+ 1500  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS="" '{print($0)}'
+ 1501  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS="" '{print($1)}'
+ 1502  zcat Trimmed/amp_res_R1.fq.gz |  wc -l | awk -v FS="" -v OFS=" " '{print($0, $0/4)}'
+ 1503  zcat Trimmed/amp_res_R2.fq.gz |  wc -l | awk -v FS="" -v OFS=" " '{print($0, $0/4)}'
+ 1504  java -jar /home/nvaulin/Documents/Trimmomatic-0.39/trimmomatic-0.39.jar PE -phred33 amp_res_1.fastq.gz amp_res_2.fastq.gz Trimmed/amp_res_R1_q30.fq.gz Trimmed/amp_res_R1_unpaired_q30.fq.gz Trimmed/amp_res_R2_q30.fq.gz Trimmed/amp_res_R2_unpaired_q30.fq.gz ILLUMINACLIP:/home/nvaulin/Documents/Trimmomatic-0.39/adapters/TruSeq3-PE.fa:2:30:10 LEADING:30 TRAILING:30 SLIDINGWINDOW:10:30 MINLEN:20
+ 1505  zcat Trimmed/amp_res_R1_q30.fq.gz |  wc -l | awk -v FS="" -v OFS=" " '{print($0, $0/4)}'
+ 1506  zcat Trimmed/amp_res_R2_q30.fq.gz |  wc -l | awk -v FS="" -v OFS=" " '{print($0, $0/4)}'
+ 1507  fastqc -o ./Antibiotics_project_BI_2022/fastqc_output/ Trimmed/amp_res_R1_q30.fq.gz Trimmed/amp_res_R2_q30.fq.gz
+ 1508  cd Antibiotics_project_BI_2022/
+ 1509  git status
+ 1510  git add fastqc_output/
+ 1511  git commit
+ 1512  git push
+ 1513  To review my data analysis, please read my notes.bw
+ 1514  bwa 
+ 1515  bwa inex
+ 1516  bwa index
+ 1517  ll
+ 1518  cd ../
+ 1519  ll
+ 1520  mkdir index
+ 1521  cd index/
+ 1522  bwa index ../GCF_000005845.2_ASM584v2_genomic.fna.gz 
+ 1523  ll
+ 1524  cd ../
+ 1525  ll
+ 1526  cd genome/
+ 1527  mv GCF_000005845.2_ASM584v2_genomic.fna* ../GCF_000005845.2_ASM584v2_genomic.fna*
+ 1528  mv GCF_000005845.2_ASM584v2_genomic.fna* ../
+ 1529  mv GCF_000005845.2_ASM584v2_genomic* ../
+ 1530  cd ../
+ 1531  mv GCF_000005845.2_ASM584v2_genomic* genome
+ 1532  ll
+ 1533  cd genome/
+ 1534  ll
+ 1535  cd ../
+ 1536  bwa mem genome/GCF_000005845.2_ASM584v2_genomic.fna.gz amp_res_1.fastq amp_res_2.fastq > alignment_antibio.sam
+ 1537  cd Antibiotics_project_BI_2022/
+ 1538  ll
+ 1539  cd ../../
+ 1540  cd Prj1_Antibiotics/
+ 1541  ll
+ 1542  bwa mem genome/GCF_000005845.2_ASM584v2_genomic.fna.gz amp_res_1.fastq amp_res_2.fastq > alignment_antibio.sam 2> Antibiotics_project_BI_2022/alignment_antibio_log.txt
+ 1543  ll
+ 1544  samtools view -Sb alignment_antibio.sam > alignment_antibio.bam
+ 1545  ll
+ 1546  rm alignment_antibio.sam 
+ 1547  samtools flagstat alignment_antibio.bam 
+ 1548  samtools flagstat alignment_antibio.bam > Antibiotics_project_BI_2022/alignment_statistics.txt
+ 1549  samtools sort alignment_antibio.bam -o alignment_antibio_sorted.bam 
+ 1550  samtools index alignment_antibio_sorted.bam 
+ 1551  дд
+ 1552  lll
+ 1553  ll
+ 1554  samtool mpileup -f genome/GCF_000005845.2_ASM584v2_genomic.fna.gz alignment_antibio_sorted.bam > my_mpileup
+ 1555  samtools mpileup -f genome/GCF_000005845.2_ASM584v2_genomic.fna.gz alignment_antibio_sorted.bam > my_mpileup
+ 1556  cd genome/
+ 1557  ll
+ 1558  cd ../
+ 1559  samtools mpileup
+ 1560  samtools mpileup -f genome/GCF_000005845.2_ASM584v2_genomic.fna.gz.fai alignment_antibio_sorted.bam > my_mpileup
+ 1561  cd genome/
+ 1562  ll
+ 1563  zcat GCF_000005845.2_ASM584v2_genomic.fna.gz > GCF_000005845.2_ASM584v2_genomic.fna
+ 1564  ll
+ 1565  samtools index GCF_000005845.2_ASM584v2_genomic.fna 
+ 1566  head GCF_000005845.2_ASM584v2_genomic.fna 
+ 1567  zcat GCF_000005845.2_ASM584v2_genomic.fna.gz | head
+ 1568  cd ../
+ 1569  ll
+ 1570  samtools mpileup -f genome/GCF_000005845.2_ASM584v2_genomic.fna.gz alignment_antibio_sorted.bam > my_mpileup
+ 1571  sudo apt-get install --upgrade samtools
+ 1572  samtools mpileup -f genome/GCF_000005845.2_ASM584v2_genomic.fna alignment_antibio_sorted.bam > my_mpileup
+ 1573  ll
+ 1574  l;
+ 1575  nano .bashrc
+ 1576  ll
+ 1577  cd D
+ 1578  cd Documents/
+ 1579  ll
+ 1580  sudo cp -r Trimmomatic-0.39/ /opt/Trimmomatic-0.39/
+ 1581  ll
+ 1582  rm -rf Trimmomatic-0.39/
+ 1583  cd /opt
+ 1584  ll
+ 1585  cd ~
+ 1586  nano .bashrc
+ 1587  exit
+ 1588  java -jar VarScan.v2.4.4.jar
+ 1589  cd /opt
+ 1590  ;;
+ 1591  ;ll
+ 1592  ll
+ 1593  exit
+ 1594  java - jar VarScan.v2.4.4.jar
+ 1595  java -jar VarScan.v2.4.4.jar
+ 1596  cd ../
+ 1597  java -jar VarScan.v2.4.4.jar
+ 1598  exit
+ 1599  cd ../java -jar VarScan.v2.4.0.jar mpileup2snp -h
+ 1600  java -jar VarScan.v2.4.0.jar mpileup2snp -h
+ 1601  java -jar/opt/ VarScan.v2.4.0.jar mpileup2snp -h
+ 1602  java -jar /opt/VarScan.v2.4.0.jar mpileup2snp -h
+ 1603  java -jar /opt/VarScan/VarScan.v2.4.0.jar mpileup2snp -h
+ 1604  java -jar /opt/VarScan/VarScan.v2.4.4.jar mpileup2snp -h
+ 1605  java -jar VarScan.v2.4.4.jar mpileup2snp -h
+ 1606  java -jar /opt/VarScan/VarScan.v2.4.4.jar mpileup2snp -h
+ 1607  exit
+ 1608  ll
+ 1609  mv my_mpileup my.mpileup
+ 1610  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp my.mpileup --min-var-freq 0.5 --variants --output-vcf 1 > VarScan_results_antibio_minfreq50.vcf
+ 1611  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp my.mpileup --min-var-freq 0.4 --variants --output-vcf 1 > VarScan_results_antibio_minfreq50.vcf
+ 1612  history
+ 1613  cd ../
+ 1614  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp my.mpileup --min-var-freq 0.5 --variants --output-vcf 1 > VarScan_results_antibio_minfreq50.vcf
+ 1615  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp my.mpileup --min-var-freq 0.4 --variants --output-vcf 1 > VarScan_results_antibio_minfreq40.vcf
+ 1616  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp my.mpileup --min-var-freq 0.6 --variants --output-vcf 1 > VarScan_results_antibio_minfreq60.vcf
+ 1617  cd Downloads/
+ 1618  ll
+ 1619  sudo cp snpEff_latest_core.zip /opt/snpEff/snpEff_latest_core.zip 
+ 1620  exit
+ 1621  cd /media/nvaulin/Winux/BI/Projects/Prj1_Antibiotics/Antibiotics_project_BI_2022/snpEff/
+ 1622  ll
+ 1623  rm snpEff.config 
+ 1624  cd data/
+ 1625  ls
+ 1626  nano snpEff
+ 1627  nano snpEff.config 
+ 1628  exit() e
+ 1629  exit
+ 1630  cd /opt
+ 1631  ll
+ 1632  sudo mkdir snpEff
+ 1633  cd snpEff/
+ 1634  ll
+ 1635  unzip snpEff_latest_core.zip 
+ 1636  sudo unzip snpEff_latest_core.zip 
+ 1637  cd ../
+ 1638  sudo mv snpEff/snpEff/* snpEff/
+ 1639  sudo rm -r snpEff/snpEff
+ 1640  git status
+ 1641  git config --global --add safe.directory /media/nvaulin/Winux/BI/Projects/Prj1_Antibiotics/Antibiotics_project_BI_2022
+ 1642  git status
+ 1643  git pull
+ 1644  git status
+ 1645  git add *
+ 1646  git status
+ 1647  git checkout
+ 1648  git status
+ 1649  touch .gitignore
+ 1650  cat .gitignore 
+ 1651  nano .gitignore 
+ 1652  git status
+ 1653  nano .gitignore 
+ 1654  git status
+ 1655  git commit
+ 1656  git push
+ 1657  nano .gitignore 
+ 1658  git add VarScan/
+ 1659  nano .gitignore 
+ 1660  git status
+ 1661  git add VarScan/
+ 1662  git status
+ 1663  nano .gitignore 
+ 1664  git reset VarScan/my.mpileup
+ 1665  git status
+ 1666  git commit 
+ 1667  git push
+ 1668  conda update conda
+ 1669  cd ../
+ 1670  tree
+ 1671  ll
+ 1672  cd Antibiotics_project_BI_2022/
+ 1673  mkdir snpEff
+ 1674  ll
+ 1675  cd snpEff/
+ 1676  touch snpEff.config
+ 1677  nano snpEff.config 
+ 1678  echo "k12.genome ecoli_K12"
+ 1679  echo "k12.genome ecoli_K12" > snpEff.config 
+ 1680  cat snpEff.config 
+ 1681  tree
+ 1682  mkdir -p data/k12
+ 1683  gunzip ../genome/GCF_000005845.2_ASM584v2_genomic.gbff.gz
+ 1684  gunzip ../genome/GCF_000005845.2_ASM584v2_genomic.gff.gz 
+ 1685  tree
+ 1686  cp ../genome/GCF_000005845.2_ASM584v2_genomic.gbff data/k12/genes.gbk
+ 1687  cd ../
+ 1688  tree
+ 1689  cp ../genome/GCF_000005845.2_ASM584v2_genomic.gff data/k12/genes.gbk
+ 1690  cp /genome/GCF_000005845.2_ASM584v2_genomic.gff data/k12/genes.gbk
+ 1691  cp ./genome/GCF_000005845.2_ASM584v2_genomic.gff ./snpEff/data/k12/genes.gbk
+ 1692  tree
+ 1693  cd snpEff/data/
+ 1694  tree
+ 1695  snpEff build -genbank -v k12
+ 1696  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12
+ 1697  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 2>> snpEff_build_log.txt
+ 1698  snpEff ann k12 VarScan_results_0.5.vcf
+ 1699  java -jar /opt/snpEff/snpEff.jar ann k12 cc
+ 1700  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1701  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 2>> snpEff_ann_log.txt
+ 1702  tree
+ 1703  java -jar /opt/snpEff/snpEff.jar ann genes.gbk ../../VarScan/VarScan_results_antibio_minfreq50.vcf 2>> snpEff_ann_log.txt
+ 1704  java -jar /opt/snpEff/snpEff.jar ann genes.gbk ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1705  cd k12/
+ 1706  tree
+ 1707  cp genes.gbk k12.genome
+ 1708  cd ../
+ 1709  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 2>> snpEff_ann_log.txt
+ 1710  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1711  java -jar /opt/snpEff/snpEff.jar ann k12/k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1712  tree
+ 1713  mv k12/k12.genome k12.genome
+ 1714  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1715  cd k12
+ 1716  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1717  java -jar /opt/snpEff/snpEff.jar ann k12 ../../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1718  ls
+ 1719  cp genes.gbk k12.genome
+ 1720  ls
+ 1721  java -jar /opt/snpEff/snpEff.jar ann k12 ../../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1722  cd ../../
+ 1723  tree
+ 1724  snpEff ann
+ 1725  java -jar /opt/snpEff/snpEff.jar ann
+ 1726  tree
+ 1727  cp snpEff.config data/snpEff.config 
+ 1728  cd data
+ 1729  ls
+ 1730  java -jar /opt/snpEff/snpEff.jar ann k12 ../../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1731  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1732  cd k12
+ 1733  ll
+ 1734  wget -c https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gbff.gz
+ 1735  gunzip GCF_000005845.2_ASM584v2_genomic.gbff.gz 
+ 1736  l
+ 1737  ls
+ 1738  ll
+ 1739  rm genes.gbk 
+ 1740  rm k12.genome 
+ 1741  mv GCF_000005845.2_ASM584v2_genomic.gbff genes.gbk
+ 1742  cd ../
+ 1743  mv GCF_000005845.2_ASM584v2_genomic.gbff genes.gbk
+ 1744  java -jar /opt/snpEff/snpEff.jar ann k12 ../../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1745  snpEff build -genbank -v k12
+ 1746  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 2>> snpEff_build_log.txt
+ 1747  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 
+ 1748  cd k12/
+ 1749  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 
+ 1750  cd ../
+ 1751  tree
+ 1752  cd ../
+ 1753  tree
+ 1754  cp ./data/snpEff.config snpEff.config
+ 1755  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 
+ 1756  tree
+ 1757  java -jar /opt/snpEff/snpEff.jar build -genbank -v k12 2>> snpEff_build.log
+ 1758  java -jar /opt/snpEff/snpEff.jar ann k12 ../VarScan/VarScan_results_antibio_minfreq50.vcf 
+ 1759  tree
+ 1760  java -jar /opt/snpEff/snpEff.jar ann k12 ../VarScan/VarScan_results_antibio_minfreq50.vcf 2>> snpEff_ann.log
+ 1761  java -jar /opt/snpEff/snpEff.jar ann k12 ../VarScan/VarScan_results_antibio_minfreq50.vcf св юю.
+ 1762  cd ../
+ 1763  ls
+ 1764  tree
+ 1765  git status
+ 1766  cd snpEff/
+ 1767  ls
+ 1768  tree
+ 1769  ls -lh
+ 1770  cd data
+ 1771  ls
+ 1772  rm snpEff.config 
+ 1773  cd k12
+ 1774  ls -lh
+ 1775  cd ../../
+ 1776  cd ../
+ 1777  ls
+ 1778  git status
+ 1779  dit add snpEff/
+ 1780  git add snpEff/
+ 1781  git commit
+ 1782  git push
+ 1783  histoty
+ 1784  histoкн
+ 1785  history
+ 1786  git status
+ 1787  ls
+ 1788  ll
+ 1789  cd snpEff/
+ 1790  column -t snpEff_genes.txt 
+ 1791  cat snpEff_genes.txt | cut -f 1
+ 1792  cat snpEff_genes.txt | cut -f 1-4
+ 1793  cat snpEff_genes.txt | cut -f 1-4 | column
+ 1794  cat snpEff_genes.txt |  column
+ 1795  cat snpEff_genes.txt |  column -t
+ 1796  cat snpEff_genes.txt |  column 
+ 1797  column --help
+ 1798  column 
+ 1799  column --
+ 1800  column -h
+ 1801  cat snpEff_genes.txt | cut -f 1-4|  column -t
+ 1802  cat snpEff_genes.txt | column -t | cut -f 1-5
+ 1803  cat snpEff_genes.txt | column -t | cut -f 1-2
+ 1804  cat snpEff_genes.txt | column -t | cut -f 1-4
+ 1805  cat snpEff_genes.txt | column -t | less --chop-long-lines 
+ 1806  cat snpEff_genes.txt | column -t | less --chop-long-lines 2
+ 1807  cat snpEff_genes.txt | column -t | less --chop-long-lines
+ 1808  cat snpEff_genes.txt | seq 1d > snpEff_genes.txt 
+ 1809  cat snpEff_genes.txt | sed 1d > snpEff_genes.txt 
+ 1810  cat snpEff_genes.txt 
+ 1811  sudo apt-get update && sudo apt-get upgrade
+ 1812  ls
+ 1813  git clone Deep sequencing, error control, p-value, viral evolution
+ 1814  git clone git@github.com:nvaulin/Flu_project_BI_2022.git
+ 1815  cd Flu_project_BI_2022/
+ 1816  git status
+ 1817  git config --global --add safe.directory /media/nvaulin/Winux/BI/Projects/Prj2_Flu/Flu_project_BI_2022
+ 1818  git status
+ 1819  git add Prj2_Flu_Description_.docx 
+ 1820  git commit 
+ 1821  git push 
+ 1822  git status
+ 1823  git add Prj2_Flu_Description
+ 1824  git add Prj2_Flu_Description.docx 
+ 1825  git status
+ 1826  git add Prj2_Flu_Description_.docx 
+ 1827  git statua
+ 1828  git status
+ 1829  git commit 
+ 1830  git push 
+ 1831  tree
+ 1832  mkdir data
+ 1833  cd data
+ 1834  wget http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/001/SRR1705851/
+ 1835  ls
+ 1836  less index.html 
+ 1837  rm index.html 
+ 1838  ls
+ 1839  ls -lh
+ 1840  ls
+ 1841  ls -lh
+ 1842  zcat SRR1705851.fastq.gz | wc -l
+ 1843  cd ../
+ 1844  ;s
+ 1845  ls
+ 1846  tree
+ 1847  mkdir fastqc_output
+ 1848  fastqc -o ./fastqc_output/ data/SRR1705851.fastq.gz 
+ 1849  ls
+ 1850  bwa index data/Influenza_A\ _virus_H3N2_segmenе_4_hemagglutinin_gene.fasta 
+ 1851  bwa mem data/Influenza_A\ _virus_H3N2_segmenе_4_hemagglutinin_gene.fasta 
+ 1852  bwa index data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta 
+ 1853  bwa mem data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta data/SRR1705851.fastq.gz 2> alignment_flu_log.txt | samtools view -Sb - | samtools sort - > person_alignnment_sorted.bam
+ 1854  bwa mem data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta data/SRR1705851.fastq.gz 2> alignment_flu_log.txt | samtools view -Sb - | samtools sort - > person_alignment_sorted.bam
+ 1855  samtools view -f4 person_alignment_sorted.bam 
+ 1856  samtools flagstagt person_alignment_sorted.bam 
+ 1857  samtools flagstat person_alignment_sorted.bam 
+ 1858  cat data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta
+ 1859  tail -1 data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta
+ 1860   data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta
+ 1861  tail -n +2 data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fast
+ 1862  tail -n +2 data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta | awk '{print length}'
+ 1863  tail -n +2 data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta | wc -c
+ 1864  ls
+ 1865  mkdir alignment
+ 1866  mv person_alignment_sorted.bam alignment/person_alignment_sorted.bam 
+ 1867  samtools index alignment/person_alignment_sorted.bam 
+ 1868  samtools mpileup -d 32011 -f data/Influenza_A_virus_H3N2_segmenе_4_hemagglutinin_gene.fasta alignment/person_alignment_sorted.bam > influenza_person_variants.mpileup
+ 1869  ls
+ 1870  mkdir variant_calling 
+ 1871  mv influenza_person_variants.mpileup variant_calling/influenza_person_variants.mpileup 
+ 1872  VarScanVarScan
+ 1873  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp variant_calling/variant_calling --min-var-freq 0.95 --variants --output-vcf 1 > variant_calling/influenza_person_variants_flu_minfreq95.vcf
+ 1874  java -jar /opt/VarScan/VarScan.v2.4.4.jar  mpileup2snp variant_calling/influenza_person_variants --min-var-freq 0.95 --variants --output-vcf 1 > variant_calling/influenza_person_variants_flu_minfreq95.vcf
+ 1875  java -jar /opt/VarScan/VarScan.v2.4.4.jar   mpileup2snp variant_calling/influenza_person_variants.mpileup --min-var-freq 0.95 --variants --output-vcf 1 > variant_calling/influenza_person_variants_flu_minfreq95.vcf
+ 1876  awk 'NR>24 {print $1, $2, $4, $5}' variant_calling/influenza_person_variants_flu_minfreq95.vcf 
+ 1877  java -jar /opt/VarScan/VarScan.v2.4.4.jar   mpileup2snp variant_calling/influenza_person_variants.mpileup --min-var-freq 0.95 --variants --output-vcf 1 > variant_calling/influenza_person_variants_flu_minfreq95.vcf>>>
+ 1878  java -jar /opt/VarScan/VarScan.v2.4.4.jar   mpileup2snp variant_calling/influenza_person_variants.mpileup --min-var-freq 0.001 --variants --output-vcf 1 > variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf
+ 1879  awk 'NR>24 {print $2, $4, $5, $10}' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf
+ 1880  awk 'BEGIN{FS=OFS="\t"}{gsub("_","\t",$10)}' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf 
+ 1881  awk 'BEGIN{FS=OFS="\t"}{gsub("_","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf 
+ 1882  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf |  c
+ 1883  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf 
+ 1884  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $10}' 
+ 1885  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $13}' 
+ 1886  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $14}' 
+ 1887  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $15}' 
+ 1888  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $12}' 
+ 1889  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $13}' 
+ 1890  awk 'BEGIN{FS=OFS="\t"}{gsub(":","\t",$10)}1' variant_calling/influenza_person_rare_variants_flu_minfreq1.vcf | awk 'NR>24 {print $2, $4, $5, $16}' 
+ 1891  cd ../
+ 1892  ls
+ 1893  git status
+ 1894  tree
+ 1895  git status
+ 1896  git add *
+ 1897  git add .
+ 1898  git status
+ 1899  git add alignment
+ 1900  git add alignment_flu_log.txt 
+ 1901  git add data/
+ 1902  git add fastqc_output/
+ 1903  git add variant_calling/
+ 1904  git status
+ 1905  git commit
+ 1906  git push
+ 1907  nreads=35333
+ 1908  $nreads
+ 1909  bc <<< 'scale=2; ${nreads}*2/10'
+ 1910  expr ${nreads}*2/10
+ 1911  var=$(expr ${nreads}*2/10)
+ 1912  var
+ 1913  myvar=$(expr ${nreads}*2/10)
+ 1914  myvar
+ 1915  expr ${nreads}*2/10
+ 1916  ${nreads}*2/10
+ 1917  ((${nreads}*2/100))
+ 1918  $((${nreads}*2/100))
+ 1919  touch .gitignore
+ 1920  cat variant_calling/influenza_person_variants.mpileup 
+ 1921  echo 'variant_calling/influenza_person_variants.mpileup' > .gitignore 
+ 1922  cat .gitignore 
+ 1923  git status
+ 1924  echo '.gitignore' > .gitignore 
+ 1925  git log 
+ 1926  git reset
+ 1927  git reset HEAD~
+ 1928  git log
+ 1929  git status
+ 1930  git add alignment
+ 1931  git reset alignment
+ 1932  tree
+ 1933  nano gitignore
+ 1934  nano .gitignore
+ 1935  echo 'variant_calling/influenza_person_variants.mpileup' >> .gitignore 
+ 1936  nano .gitignore
+ 1937  git status
+ 1938  git add
+ 1939  git add .
+ 1940* 
+ 1941  git commit
+ 1942  git ctatus
+ 1943  git status
+ 1944  git push 
+ 1945  git push --force
+ 1946  ls
+ 1947  cd data
+ 1948  ls -lh
+ 1949  wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/008/SRR1705858/SRR1705858.fastq.gz
+ 1950  wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/009/SRR1705859/SRR1705859.fastq.gz
+ 1951  wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/000/SRR1705860/SRR1705860.fastq.gz
+ 1952  history
+ 1953  cd ../
+ 1954  ls 
+ 1955  ls =lh
+ 1956  ls -lh
+ 1957  ./Flu_NGS_SE_precessing_and_rare_varinats_calling.sh 
+ 1958  tree
+ 1959* 
+ 1960  nano .gitignore 
+ 1961  git status
+ 1962  git log
+ 1963  git reset HEAD~
+ 1964  git status
+ 1965  git add .
+ 1966  git commit
+ 1967  git reset HEAD~
+ 1968  nano .gitignore 
+ 1969  git status
+ 1970  git add .
+ 1971  git commit
+ 1972  git status
+ 1973  tree
+ 1974  git push 
+ 1975  git push --force
+ 1976  git pull
+ 1977  cd ../
+ 1978  bash Mambaforge-Linux-aarch64.sh 
+ 1979  rm Mambaforge-Linux-aarch64.sh 
+ 1980  bash Mambaforge-pypy3-Linux-x86_64.sh 
+ 1981  ls
+ 1982  tree
+ 1983  fastqc
+ 1984* 
+ 1985  fastqc -o ./fastqc_reports/ data/*
+ 1986  ls
+ 1987  cd ../
+ 1988  ls
+ 1989  cd ../
+ 1990  conda install mamba -n base -c conda-forge
+ 1991  cd ../
+ 1992  ls
+ 1993  cd Projects/
+ 1994  mamba
+ 1995  ls
+ 1996  spades
+ 1997  ls
+ 1998  spades --pe1-1 data/PE_F_reads.fastq --pe1-2 data/PE_R_reads.fastq -m 12 -t 12 -o spades_assembly/ 2>> spades_assembly/spades_PE_run.log
+ 1999  cd spades_assembly/
+ 2000  less spades_PE_run.log 
+ 2001  tree
+ 2002  less spades.log
+ 2003  cd ../
+ 2004  spades --pe1-1 data/PE_F_reads.fastq --pe1-2 data/PE_R_reads.fastq -m 12 -t 12 -o spades_assembly/ > spades_assembly/spades_PE_run.log
+ 2005  tree
+ 2006  ls
+ 2007  cd spades_assembly/
+ 2008  ls
+ 2009  tree
+ 2010  ls
+ 2011  cat spades.log 
+ 2012  cd ../
+ 2013  mkdir spades_assembly_PE_MP
+ 2014  tree
+ 2015  spades
+ 2016  spades --pe1-1 data/PE_F_reads.fastq --pe1-2 data/PE_R_reads.fastq --mp1-1 data/MP1_F_reads.fastq.gz --mp1-2 data/MP1_R_reads.fastq.gz --mp2-1 data/MP2_F_reads.fastq.gz --mp2-2 data/MP2_R_reads.fastq.gz -m 14 -t 14 -o spades_assembly_PE_MP/ 
+ 2017  history | tail
+ 2018  history | tail > history.txt
+ 2019  history  > history.txt

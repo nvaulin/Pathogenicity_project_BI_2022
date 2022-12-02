@@ -1,0 +1,24 @@
+DNA-packaging protein FI 
+DUF968 domain-containing protein 
+IS66 family element, Orf2 protein 
+ISAs1 family transposase 
+RHS repeat protein 
+Rha family transcriptional regulator 
+SASA family carbohydrate esterase 
+Shiga toxin Stx2 subunit A 
+Shiga toxin Stx2 subunit B 
+Shiga toxin Stx2a subunit B 
+Shiga toxin Stx2c subunit A 
+TPA: DUF1737 domain-containing protein 
+Uncharacterised protein 
+bacteriocin 
+helix-turn-helix domain-containing protein 
+lysis protein 
+phage tail assembly protein T 
+phage tail protein 
+propanediol utilization protein 
+putative DNA-binding transcriptional regulator 
+putative endopeptidase 
+receptor recognizing protein Gp38 
+tail fiber domain-containing protein 
+transposase family protein 

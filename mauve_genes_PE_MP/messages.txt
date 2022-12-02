@@ -1,0 +1,276 @@
+Error checking for updates.
+Running alignment.
+Executing 
+  win64\progressiveMauve
+    --output=D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\mauve_genes_PE_MP\mauve_genes_PE_MP
+    --output-guide-tree=D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\mauve_genes_PE_MP\mauve_genes_PE_MP.guide_tree
+    --backbone-output=D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\mauve_genes_PE_MP\mauve_genes_PE_MP.backbone
+    D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\closest_reference\ecoli55989.fasta
+    D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\prokka_output\ecoliX_.gbk
+Storing raw sequence at C:\Users\vauli\AppData\Local\Temp\raw84CB.tmp
+Sequence loaded successfully.
+D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\closest_reference\ecoli55989.fasta 5154862 base pairs.
+Storing raw sequence at C:\Users\vauli\AppData\Local\Temp\raw850A.tmp
+Sequence loaded successfully.
+D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\prokka_output\ecoliX_.gbk 5537153 base pairs.
+Using weight 15 mers for initial seeds
+Creating sorted mer list
+Create time was: 1 seconds.
+Creating sorted mer list
+Create time was: 1 seconds.
+0%..1%..2%..3%..4%..5%..6%..7%..8%..9%..10%..
+11%..12%..13%..14%..15%..16%..17%..18%..19%..20%..
+21%..22%..23%..24%..25%..26%..27%..28%..29%..30%..
+31%..32%..33%..34%..35%..36%..37%..38%..39%..40%..
+41%..42%..43%..44%..45%..46%..47%..48%..49%..50%..
+51%..52%..53%..54%..55%..56%..57%..58%..59%..60%..
+61%..62%..63%..64%..65%..66%..67%..68%..69%..70%..
+71%..72%..73%..74%..75%..76%..77%..78%..79%..80%..
+81%..82%..83%..84%..85%..86%..87%..88%..89%..90%..
+91%..92%..93%..94%..95%..96%..97%..98%..99%..done.
+using default bp penalty: 156450
+using default bp estimate min score: 469351
+Starting with 1127 multi-matches
+Computing genome content distance matrix...
+
+
+Genome conservation distance matrix: 
+0	0.102704
+0.102704	0
+
+Writing guide tree to D:\BI\Projects\Prj3_pathogenicity\Pathogenicity_project_BI_2022\mauve_genes_PE_MP\mauve_genes_PE_MP.guide_tree
+reading tree...
+initializing alignment tree...
+Constructing seed occurrence lists for repeat detection
+Calculating pairwise breakpoint distances
+Pair 0, 1 has 684 initial LCBs
+Using scaled bp penalty: 304256
+Pair (0,1) has 23 well-supported breakpoints
+genome content distance matrix:
+0	0.102704
+0.102704	0
+
+bp distance matrix:
+0.9	0.25875
+0.25875	0.9
+
+Aligning...
+Aligning node 1 to 2 via 0!
+Working set size: 135 Mb
+Pagefile usage: 80 Mb
+get ancestral matches
+Working set size: 135 Mb
+Pagefile usage: 80 Mb
+Performing Sum-of-pairs Greedy Breakpoint Elimination
+Working set size: 135 Mb
+Pagefile usage: 80 Mb
+construct LCB tracking matches
+There are 960 tracking matches
+There are 1920 / 2880 components used
+Working set size: 137 Mb
+Pagefile usage: 81 Mb
+init tracking match LCB tracking
+Working set size: 137 Mb
+Pagefile usage: 81 Mb
+pairwise score tracking matches
+Working set size: 138 Mb
+Pagefile usage: 82 Mb
+get pairwise LCBs
+there are 681 pairwise LCBs
+Working set size: 138 Mb
+Pagefile usage: 82 Mb
+scaling bp penalty by conservation weight:
+0.102704
+
+
+scaling bp penalty by bp weight: 
+0.25875
+
+Greedy BPE
+Scoring with scaled breakpoint penalty: 55724.7
+1%..2%..3%..4%..5%..6%..7%..8%..9%..
+10%..11%..12%..13%..14%..15%..16%..17%..18%..19%..
+20%..21%..22%..23%..24%..25%..26%..27%..28%..29%..
+30%..31%..32%..33%..34%..35%..36%..37%..38%..39%..
+40%..41%..42%..43%..44%..45%..46%..47%..48%..49%..
+50%..51%..52%..53%..54%..55%..56%..57%..58%..59%..
+60%..61%..62%..63%..64%..65%..66%..67%..68%..69%..
+70%..71%..72%..73%..74%..75%..76%..77%..78%..79%..
+80%..done
+Working set size: 136 Mb
+Pagefile usage: 82 Mb
+Arrived at 39 intervals
+Adding unaligned intervals
+addUnalignedIntervals yields 115 intervals
+Merging unaligned intervals
+Marbling gaps
+Propagating descendant breakpoints
+descendant 0(1) has 1 intervals
+descendant 1(2) has 1 intervals
+propagateDescendantBreakpoints yields 39 intervals
+Creating ancestral ordering
+Previous anchoring score: -1.79769e+308, new anchor score: 3.42472e+008
+Backing up alignment tree...
+propagating ancestral breakpoints
+recursive anchor search
+0,0 have 945 new matches outside LCBs
+0,0 has an additional 3325 matches
+Restoring backed up alignment tree...
+1,0 has 3325 pairwise matches
+Performing Sum-of-pairs Greedy Breakpoint Elimination
+Working set size: 147 Mb
+Pagefile usage: 93 Mb
+construct LCB tracking matches
+There are 2820 tracking matches
+There are 5640 / 8460 components used
+Working set size: 151 Mb
+Pagefile usage: 95 Mb
+init tracking match LCB tracking
+Working set size: 151 Mb
+Pagefile usage: 95 Mb
+pairwise score tracking matches
+Working set size: 151 Mb
+Pagefile usage: 96 Mb
+get pairwise LCBs
+there are 2422 pairwise LCBs
+Working set size: 152 Mb
+Pagefile usage: 97 Mb
+scaling bp penalty by conservation weight:
+0.102704
+
+
+scaling bp penalty by bp weight: 
+0.25875
+
+Greedy BPE
+Scoring with scaled breakpoint penalty: 55724.7
+1%..2%..3%..4%..5%..6%..7%..8%..9%..
+10%..11%..12%..13%..14%..15%..16%..17%..18%..19%..
+20%..21%..22%..23%..24%..25%..26%..27%..28%..29%..
+30%..31%..32%..33%..34%..35%..36%..37%..38%..39%..
+40%..41%..42%..43%..44%..45%..46%..47%..48%..49%..
+50%..51%..52%..53%..54%..55%..56%..57%..58%..59%..
+60%..61%..62%..63%..64%..65%..66%..67%..68%..69%..
+70%..71%..72%..73%..74%..75%..76%..77%..78%..79%..
+80%..81%..82%..83%..84%..85%..86%..87%..88%..89%..
+90%..91%..done
+Working set size: 148 Mb
+Pagefile usage: 93 Mb
+Arrived at 43 intervals
+Adding unaligned intervals
+addUnalignedIntervals yields 120 intervals
+Merging unaligned intervals
+Marbling gaps
+Propagating descendant breakpoints
+descendant 0(1) has 1 intervals
+descendant 1(2) has 1 intervals
+propagateDescendantBreakpoints yields 43 intervals
+Creating ancestral ordering
+Previous anchoring score: 3.42472e+008, new anchor score: 3.83201e+008
+Backing up alignment tree...
+propagating ancestral breakpoints
+recursive anchor search
+0,0 have 871 new matches outside LCBs
+0,0 has an additional 3055 matches
+Restoring backed up alignment tree...
+1,0 has 3055 pairwise matches
+Performing Sum-of-pairs Greedy Breakpoint Elimination
+Working set size: 151 Mb
+Pagefile usage: 101 Mb
+construct LCB tracking matches
+There are 2798 tracking matches
+There are 5596 / 8394 components used
+Working set size: 154 Mb
+Pagefile usage: 104 Mb
+init tracking match LCB tracking
+Working set size: 154 Mb
+Pagefile usage: 104 Mb
+pairwise score tracking matches
+Working set size: 156 Mb
+Pagefile usage: 105 Mb
+get pairwise LCBs
+there are 2318 pairwise LCBs
+Working set size: 156 Mb
+Pagefile usage: 105 Mb
+scaling bp penalty by conservation weight:
+0.102704
+
+
+scaling bp penalty by bp weight: 
+0.25875
+
+Greedy BPE
+Scoring with scaled breakpoint penalty: 55724.7
+1%..2%..3%..4%..5%..6%..7%..8%..9%..
+10%..11%..12%..13%..14%..15%..16%..17%..18%..19%..
+20%..21%..22%..23%..24%..25%..26%..27%..28%..29%..
+30%..31%..32%..33%..34%..35%..36%..37%..38%..39%..
+40%..41%..42%..43%..44%..45%..46%..47%..48%..49%..
+50%..51%..52%..53%..54%..55%..56%..57%..58%..59%..
+60%..61%..62%..63%..64%..65%..66%..67%..68%..69%..
+70%..71%..72%..73%..74%..75%..76%..77%..78%..79%..
+80%..81%..82%..83%..84%..85%..86%..87%..88%..89%..
+90%..done
+Working set size: 151 Mb
+Pagefile usage: 102 Mb
+Arrived at 43 intervals
+Adding unaligned intervals
+addUnalignedIntervals yields 119 intervals
+Merging unaligned intervals
+Marbling gaps
+Propagating descendant breakpoints
+descendant 0(1) has 1 intervals
+descendant 1(2) has 1 intervals
+propagateDescendantBreakpoints yields 43 intervals
+Creating ancestral ordering
+Previous anchoring score: 3.83201e+008, new anchor score: 3.83197e+008
+Working set size: 152 Mb
+Pagefile usage: 102 Mb
+propagating ancestral breakpoints
+Working set size: 152 Mb
+Pagefile usage: 102 Mb
+performing a gapped alignment
+
+0%..1%..2%..3%..4%..5%..6%..7%..8%..9%..
+10%..11%..12%..13%..14%..15%..16%..17%..18%..19%..
+20%..21%..22%..23%..24%..25%..26%..27%..28%..29%..
+30%..31%..32%..33%..34%..35%..36%..37%..38%..39%..
+40%..41%..42%..43%..44%..45%..46%..47%..48%..49%..
+50%..51%..52%..53%..54%..55%..56%..57%..58%..59%..
+60%..61%..62%..63%..64%..65%..66%..67%..68%..69%..
+70%..71%..72%..73%..74%..75%..76%..77%..78%..79%..
+80%..81%..82%..83%..84%..85%..86%..87%..88%..89%..
+90%..91%..92%..93%..94%..95%..96%..97%..98%..99%..
+100%..Working set size: 191 Mb
+Pagefile usage: 143 Mb
+Fix left ends
+Working set size: 191 Mb
+Pagefile usage: 143 Mb
+
+done.
+Working set size: 191 Mb
+Pagefile usage: 143 Mb
+Performing final pass iterative refinement
+
+0%..1%..2%..3%..4%..5%..6%..7%..8%..9%..
+10%..11%..12%..13%..14%..15%..16%..17%..18%..19%..
+20%..21%..22%..23%..24%..25%..26%..27%..28%..29%..
+30%..31%..32%..33%..34%..35%..36%..37%..38%..39%..
+40%..41%..42%..43%..44%..45%..46%..47%..48%..49%..
+50%..51%..52%..53%..54%..55%..56%..57%..58%..59%..
+60%..61%..62%..63%..64%..65%..66%..67%..68%..69%..
+70%..71%..72%..73%..74%..75%..76%..77%..78%..79%..
+80%..81%..82%..83%..84%..85%..86%..87%..88%..89%..
+90%..91%..92%..93%..94%..95%..96%..97%..98%..99%..
+100%..Working set size: 190 Mb
+Pagefile usage: 142 Mb
+Fix left ends
+Working set size: 190 Mb
+Pagefile usage: 142 Mb
+
+done.
+root alignment has 43 superintervals
+root alignment length: 5933779
+Organisms have 50.3% GC
+Completed without error.
+Alignment complete!

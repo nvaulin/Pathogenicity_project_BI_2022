@@ -1,0 +1,40 @@
+http://genomescope.org/analysis.php?code=FUaiF9JhJWFjQyrBCTft
+
+GenomeScope version 1.0
+k = 31
+
+property                      min               max               
+Heterozygosity                0.363754%         0.379092%         
+Genome Haploid Length         4,806,089 bp      4,824,834 bp      
+Genome Repeat Length          69,747 bp         70,019 bp         
+Genome Unique Length          4,736,341 bp      4,754,814 bp      
+Model Fit                     94.8965%          95.6352%          
+Read Error Rate               0.0780987%        0.0780987%        
+
+
+Model
+
+
+Formula: y ~ (((2 * (1 - d) * (1 - (1 - r)^k)) + (2 * d * (1 - (1 - r)^k)^2) + 
+    (2 * d * ((1 - r)^k) * (1 - (1 - r)^k))) * dnbinom(x, size = kmercov/bias, 
+    mu = kmercov) * length + (((1 - d) * ((1 - r)^k)) + (d * 
+    (1 - (1 - r)^k)^2)) * dnbinom(x, size = kmercov * 2/bias, 
+    mu = kmercov * 2) * length + (2 * d * ((1 - r)^k) * (1 - 
+    (1 - r)^k)) * dnbinom(x, size = kmercov * 3/bias, mu = kmercov * 
+    3) * length + (d * (1 - r)^(2 * k)) * dnbinom(x, size = kmercov * 
+    4/bias, mu = kmercov * 4) * length)
+
+Parameters:
+          Estimate Std. Error  t value Pr(>|t|)    
+d       -1.322e-02  2.411e-03   -5.482 5.65e-08 ***
+r        3.714e-03  3.835e-05   96.862  < 2e-16 ***
+kmercov  3.344e+01  3.255e-02 1027.564  < 2e-16 ***
+bias     5.122e+00  4.602e-02  111.313  < 2e-16 ***
+length   4.684e+06  9.343e+03  501.374  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 769.7 on 792 degrees of freedom
+
+Number of iterations to convergence: 11 
+Achieved convergence tolerance: 4.413e-06
